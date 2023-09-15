@@ -1,0 +1,24 @@
+{
+  "name": "15Sep",
+  "type": "package",
+  "blockId": "a3nYrYXmwqaGM8Uv856hI",
+  "source": {
+    "https": "https://github.com/grgshiji/15Sep.git",
+    "ssh": "git@github.com:grgshiji/15Sep.git",
+    "branch": "block_15Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "15Sep_Block1": {
+      "directory": "15Sep_Block1"
+    },
+    "15Sep_Block2": {
+      "directory": "15Sep_Block2"
+    }
+  }
+}
