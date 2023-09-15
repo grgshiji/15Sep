@@ -15,13 +15,21 @@
   "repoType": "mono",
   "dependencies": {
     "15Sep_Block1": {
-      "directory": "15Sep_Block1"
+      "directory": "15Sep_Block1",
+      "versionId": "tEV6ZoBXeKbsgA08Te_9S",
+      "version": "0.0.1"
     },
     "15Sep_Block2": {
-      "directory": "15Sep_Block2"
+      "directory": "15Sep_Block2",
+      "versionId": "Es6bnOnPGCWSH6nxuQQ3S",
+      "version": "0.0.1"
     },
     "15Sep_Block3": {
-      "directory": "15Sep_Block3"
+      "directory": "15Sep_Block3",
+      "versionId": "8hUoHSj5kPIf9K6MTutsv",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.3",
+  "versionId": "3AAY-9lRjxYW301m1VGFX"
 }
